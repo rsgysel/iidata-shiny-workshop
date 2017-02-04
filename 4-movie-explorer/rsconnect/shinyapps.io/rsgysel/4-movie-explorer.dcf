@@ -1,0 +1,11 @@
+name: 4-movie-explorer
+title: 4-movie-explorer
+account: rsgysel
+server: shinyapps.io
+appId: 154954
+bundleId: 700861
+url: https://rsgysel.shinyapps.io/4-movie-explorer/
+when: 1486245541.93068
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: solution/global.R|solution/movies.db|solution/server.R|solution/ui.R
